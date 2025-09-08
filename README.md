@@ -14,20 +14,6 @@ It provides an interface to display **guitar chords** and allows users to **tran
 
 ---
 
-## 📂 Project Structure
-├── index.html # Main entry point
-├── css/
-│ ├── style.css # General styling
-│ └── html-chords.css # Chord-related styling
-├── js/
-│ ├── html-chords.js # Transpose + chord logic
-│ └── jquery.js # jQuery library
-├── img/
-│ └── logo-no-bg.png # Logo asset
-└── README.md # Project documentation
-
----
-
 ## 🛠️ Usage
 
 1. Clone or download this repository.  
